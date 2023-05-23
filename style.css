@@ -192,6 +192,14 @@
   .right {
     left: 0%;
   }
+
+  .card {
+    width: auto !important;
+  }
+
+  .skillbar-container {
+    width: 90% !important;
+  }
 }
 
 /*============Glogbal Style================ */
